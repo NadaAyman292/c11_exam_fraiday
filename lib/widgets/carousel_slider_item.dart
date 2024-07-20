@@ -29,7 +29,7 @@ class CarouselSliderItem extends StatelessWidget {
         ],
         options: CarouselOptions(
           height: 300,
-          autoPlay: false,
+          autoPlay: true,
           viewportFraction: 0.7,
           enableInfiniteScroll: true,
           autoPlayInterval: Duration(seconds: 3),
