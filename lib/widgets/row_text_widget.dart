@@ -16,9 +16,10 @@ class RowTextWidge extends StatelessWidget {
             Text(
               LabelOne,
               style: TextStyle(
-                  color: Color(0xff010104),
-                  fontSize: 16,
-                  fontWeight: FontWeight.w500),
+                color: Color(0xff010104),
+                fontSize: 16,
+                fontWeight: FontWeight.w500,
+              ),
             ),
             Text(
               LabelTwo,
